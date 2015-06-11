@@ -1,2 +1,2 @@
-require './web'
+require_relative 'web'
 run CardStack
