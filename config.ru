@@ -1,2 +1,2 @@
-require_relative 'web'
+require_relative 'web.rb'
 run CardStack
